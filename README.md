@@ -31,5 +31,5 @@ Software engineer focused on reliable full-stack architecture and interactive we
 Identity    : Adi Alfian Hafis
 Location    : Indonesia (UTC+7)
 Website     : https://personal-portf-murex.vercel.app
-PGP / Auth  : Available on request
+PGP / Auth  : Verified
 ```
