@@ -2,7 +2,7 @@
 
 Software engineer focused on reliable full-stack architecture and interactive web graphics. Building resilient production systems and high-craft digital interfaces.
 
-[Portfolio](https://personal-portf-murex.vercel.app) &nbsp;•&nbsp; [Writing](https://personal-portf-murex.vercel.app/writing) &nbsp;•&nbsp; [Selected Work](https://personal-portf-murex.vercel.app/#work) &nbsp;•&nbsp; [Contact](https://personal-portf-murex.vercel.app/contact)
+[Portfolio](https://adiallllllll.vercel.app) &nbsp;•&nbsp; [Writing](https://adiallllllll.vercel.app/writing) &nbsp;•&nbsp; [Selected Work](https://adiallllllll.vercel.app/#work) &nbsp;•&nbsp; [Contact](https://adiallllllll.vercel.app/contact)
 
 ---
 
@@ -30,6 +30,6 @@ Software engineer focused on reliable full-stack architecture and interactive we
 ```text
 Identity    : Adi Alfian Hafis
 Location    : Indonesia (UTC+7)
-Website     : https://personal-portf-murex.vercel.app
+Website     : https://adiallllllll.vercel.app
 PGP / Auth  : Verified
 ```
